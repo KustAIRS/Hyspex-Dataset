@@ -28,7 +28,7 @@ development, hyperspectral large models, multisource data fusion,
 
 
 ## Citation
-If you use our datasets, please cite the following papers: [UAV Hyperspectral Remote Sensing Image Classification: A Systematic Review](https://ieeexplore.ieee.org/document/10815625) and [An innovative feature clustering paradigm based on Hypergraph cooperative graph convolutional network for hyperspectral image classification].(https://www.sciencedirect.com/science/article/pii/S0952197625036292)
+If you use our datasets, please cite the following papers: [UAV Hyperspectral Remote Sensing Image Classification: A Systematic Review](https://ieeexplore.ieee.org/document/10815625) and [An innovative feature clustering paradigm based on Hypergraph cooperative graph convolutional network for hyperspectral image classification](https://www.sciencedirect.com/science/article/pii/S0952197625036292).
 ```
 @ARTICLE{10815625,
   author={Zhang, Zhen and Huang, Lehao and Wang, Qingwang and Jiang, Linhuan and Qi, Yemao and Wang, Shunyuan and Shen, Tao and Tang, Bo-Hui and Gu, Yanfeng},
