@@ -41,16 +41,17 @@ If you use our datasets, please cite the following papers: [UAV Hyperspectral Re
   keywords={Hyperspectral imaging;Autonomous aerial vehicles;Payloads;Monitoring;Spatial resolution;Deep learning;Data acquisition;Atmospheric waves;Accuracy;Precision agriculture;Deep learning;hyperspectral applications;hyperspectral image classification;large remote sensing model;unmanned aerial vehicle (UAV) remote sensing},
   doi={10.1109/JSTARS.2024.3522318}}
 
-@article{ZHANG2026113597,
-title = {An innovative feature clustering paradigm based on Hypergraph cooperative graph convolutional network for hyperspectral image classification},
+@ARTICLE{ZHANG2026113597,
+author = {Zhen Zhang and Lehao Huang and Yabin Hu and Qingwang Wang and Chunxue Xu and Yemao Qi and Chenxi Liu},
 journal = {Engineering Applications of Artificial Intelligence},
+title = {An innovative feature clustering paradigm based on Hypergraph cooperative graph convolutional network for hyperspectral image classification},
+year = {2026},
 volume = {166},
 pages = {113597},
-year = {2026},
 issn = {0952-1976},
 doi = {https://doi.org/10.1016/j.engappai.2025.113597},
 url = {https://www.sciencedirect.com/science/article/pii/S0952197625036292},
-author = {Zhen Zhang and Lehao Huang and Yabin Hu and Qingwang Wang and Chunxue Xu and Yemao Qi and Chenxi Liu},
+
 keywords = {Hyperspectral image classification, Graph convolution network, Hypergraph action network, Feature adaptive aggregation},
 
 
